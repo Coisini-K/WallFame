@@ -1,0 +1,20 @@
+{
+  "name": "honor-wall",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "serve": "vite",
+    "dve": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@vitejs/plugin-vue": "latest",
+    "vite": "latest",
+    "vue": "latest",
+    "@lucide/vue": "latest"
+  },
+  "devDependencies": {}
+}
